@@ -16,12 +16,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  
-```
-
 Go to the project directory
 
 ```bash
